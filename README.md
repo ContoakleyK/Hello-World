@@ -12,3 +12,8 @@ That tutorial worked fine.  Now I need a project to focus on.
   - Send slides
   - Tweak and revise as necessary to survive the class
   
+Remember to peel through the readme files from the lectures to figure out formatting tricks.
+
+How do I import links, images, change font?
+
+%56
